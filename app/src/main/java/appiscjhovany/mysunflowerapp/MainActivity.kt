@@ -10,7 +10,6 @@ import appiscjhovany.mysunflowerapp.activity.ActividadDos
 import appiscjhovany.mysunflowerapp.activity.ActividadInventario
 import com.google.android.material.textfield.TextInputEditText
 
-const val TEXTO = "TEXTO"
 class MainActivity : AppCompatActivity() {
 
     lateinit var editText: TextInputEditText
