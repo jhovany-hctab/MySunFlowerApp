@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MySunFlowerApp</string>
+
+    <string name="maluspunil">Manzana</string>
+    <string name="betavulgaris">Betabel</string>
+    <string name="coriandrunsativum">Cilantro</string>
+    <string name="solanumlycopersicum">Jitomate</string>
+    <string name="perseaamericana">Aguacate</string>
+    <string name="pyruscommunis">Pera</string>
+    <string name="solanummelongena">Berenjena</string>
+    <string name="vitisvinifera">Uva</string>
+    <string name="mangiferaindica">Mango</string>
+    <string name="citrusxsinensis">Naranja</string>
+    <string name="helianthusannuus">Girasol</string>
+    <string name="citrulluslanatus">Sandía</string>
+    <string name="hibiscusrosasinensis">Hibiscus</string>
+    <string name="cypripediumreginae">Gran Zapatilla de Dama</string>
+    <string name="aquilegiacoerulea">Aquilegia</string>
+    <string name="magnoliadenudata">Magnolia Yulan</string>
+    <string name="bougainvilleglabra">Buganvilla</string>
+</resources>
